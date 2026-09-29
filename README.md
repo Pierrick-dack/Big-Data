@@ -215,17 +215,17 @@ Le journal structuré est écrit dans `code/data/journal/executions.jsonl`, les 
 **Accueil du tableau de bord** — filtres par ville et période, indicateurs clés avec point de
 comparaison, fraîcheur et périmètre des données affichés.
 
-![Accueil du tableau de board](preuves/captures/Accueil 1.png)
+![Accueil du tableau de board](preuves/captures/Accueil_1.png)
 
 **Constats et décisions** — les stations les plus en tension et le chiffrage associé, rattachés
 à un destinataire et à une décision.
 
-![Constats et décisions](preuves/captures/Accueil 2.png)
+![Constats et décisions](preuves/captures/Accueil_2.png)
 
 **Bulletin de 7 h 30** — produit automatiquement par la chaîne, consultable et téléchargeable
 depuis l'interface, lisible sur téléphone comme sur poste.
 
-![Bulletin de 7 h 30](preuves/captures/Menu Bulletin.png)
+![Bulletin de 7 h 30](preuves/captures/Menu_Bulletin.png)
 
 ---
 
