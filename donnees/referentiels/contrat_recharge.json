@@ -1,0 +1,15 @@
+{
+  "prestataire": "VoltaService",
+  "objet": "remplacement des batteries des engins electriques",
+  "seuil_alerte_batterie_pct": 20,
+  "seuil_engin_utilisable_pct": 15,
+  "delai_max_intervention_heures": 4,
+  "plage_intervention": {
+    "debut": "07:00",
+    "fin": "21:00",
+    "jours": "7 jours sur 7"
+  },
+  "regle_de_calcul": "le delai court a partir de l'alerte ; une alerte emise hors plage commence a courir a l'ouverture de la plage suivante",
+  "penalite_eur_par_intervention_hors_delai": 12,
+  "remuneration_eur_par_intervention": 6.5
+}

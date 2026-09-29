@@ -1,0 +1,136 @@
+[
+ {
+  "ticket_id": "MT000098",
+  "engin_id": "EN00599",
+  "date_ouverture": "2026-08-24",
+  "type_panne": "moteur",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000099",
+  "engin_id": "EN00181",
+  "date_ouverture": "2026-08-25",
+  "type_panne": "gps",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P2",
+  "date_cloture": "2026-08-29"
+ },
+ {
+  "ticket_id": "MT000100",
+  "engin_id": "EN00423",
+  "date_ouverture": "2026-08-25",
+  "type_panne": "moteur",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P1",
+  "date_cloture": "2026-08-26"
+ },
+ {
+  "ticket_id": "MT000101",
+  "engin_id": "EN00419",
+  "date_ouverture": "2026-08-26",
+  "type_panne": "vandalisme",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P3",
+  "date_cloture": "2026-08-30"
+ },
+ {
+  "ticket_id": "MT000102",
+  "engin_id": "EN00355",
+  "date_ouverture": "2026-08-27",
+  "type_panne": "moteur",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P3",
+  "date_cloture": "2026-08-28",
+  "cout_eur": 225.4
+ },
+ {
+  "ticket_id": "MT000103",
+  "engin_id": "EN00485",
+  "date_ouverture": "2026-08-27",
+  "type_panne": "vandalisme",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P3"
+ },
+ {
+  "ticket_id": "MT000104",
+  "engin_id": "EN00127",
+  "date_ouverture": "2026-08-28",
+  "type_panne": "moteur",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-01"
+ },
+ {
+  "ticket_id": "MT000105",
+  "engin_id": "EN00461",
+  "date_ouverture": "2026-08-28",
+  "type_panne": "moteur",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P3"
+ },
+ {
+  "ticket_id": "MT000106",
+  "engin_id": "EN00574",
+  "date_ouverture": "2026-08-28",
+  "type_panne": "batterie",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P2",
+  "date_cloture": "2026-08-31"
+ },
+ {
+  "ticket_id": "MT000107",
+  "engin_id": "EN00587",
+  "date_ouverture": "2026-08-28",
+  "type_panne": "gps",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P1",
+  "date_cloture": "2026-08-30",
+  "cout_eur": 106.08
+ },
+ {
+  "ticket_id": "MT000108",
+  "engin_id": "EN00371",
+  "date_ouverture": "2026-08-29",
+  "type_panne": "gps",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P1",
+  "cout_eur": 133.74
+ },
+ {
+  "ticket_id": "MT000109",
+  "engin_id": "EN00396",
+  "date_ouverture": "2026-08-29",
+  "type_panne": "frein",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P2",
+  "cout_eur": 126.48
+ },
+ {
+  "ticket_id": "MT000110",
+  "engin_id": "EN00481",
+  "date_ouverture": "2026-08-29",
+  "type_panne": "vandalisme",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P3",
+  "cout_eur": 184.47
+ },
+ {
+  "ticket_id": "MT000111",
+  "engin_id": "EN00298",
+  "date_ouverture": "2026-08-30",
+  "type_panne": "pneu",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-03"
+ },
+ {
+  "ticket_id": "MT000112",
+  "engin_id": "EN00558",
+  "date_ouverture": "2026-08-30",
+  "type_panne": "frein",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P1",
+  "cout_eur": 221.5
+ }
+]

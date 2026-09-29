@@ -1,0 +1,175 @@
+[
+ {
+  "ticket_id": "MT000001",
+  "engin_id": "EN00048",
+  "date_ouverture": "2026-07-20",
+  "type_panne": "pneu",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000002",
+  "engin_id": "EN00191",
+  "date_ouverture": "2026-07-20",
+  "type_panne": "frein",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P3",
+  "cout_eur": 337.13
+ },
+ {
+  "ticket_id": "MT000003",
+  "engin_id": "EN00362",
+  "date_ouverture": "2026-07-20",
+  "type_panne": "batterie",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P2",
+  "date_cloture": "2026-07-26",
+  "cout_eur": 297.34
+ },
+ {
+  "ticket_id": "MT000004",
+  "engin_id": "EN00466",
+  "date_ouverture": "2026-07-20",
+  "type_panne": "gps",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P2",
+  "date_cloture": "2026-07-23",
+  "technicien": {
+   "id": "TEC008",
+   "equipe": "mobile"
+  }
+ },
+ {
+  "ticket_id": "MT000005",
+  "engin_id": "EN00570",
+  "date_ouverture": "2026-07-20",
+  "type_panne": "batterie",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P1",
+  "date_cloture": "2026-07-21"
+ },
+ {
+  "ticket_id": "MT000006",
+  "engin_id": "EN00297",
+  "date_ouverture": "2026-07-21",
+  "type_panne": "batterie",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000007",
+  "engin_id": "EN00471",
+  "date_ouverture": "2026-07-21",
+  "type_panne": "moteur",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P3",
+  "cout_eur": 75.76
+ },
+ {
+  "ticket_id": "MT000008",
+  "engin_id": "EN00552",
+  "date_ouverture": "2026-07-21",
+  "type_panne": "vandalisme",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P3",
+  "date_cloture": "2026-07-27"
+ },
+ {
+  "ticket_id": "MT000009",
+  "engin_id": "EN00170",
+  "date_ouverture": "2026-07-22",
+  "type_panne": "vandalisme",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P3",
+  "date_cloture": "2026-07-25"
+ },
+ {
+  "ticket_id": "MT000010",
+  "engin_id": "EN00098",
+  "date_ouverture": "2026-07-23",
+  "type_panne": "frein",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P3"
+ },
+ {
+  "ticket_id": "MT000011",
+  "engin_id": "EN00134",
+  "date_ouverture": "2026-07-23",
+  "type_panne": "frein",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P1"
+ },
+ {
+  "ticket_id": "MT000012",
+  "engin_id": "EN00319",
+  "date_ouverture": "2026-07-23",
+  "type_panne": "batterie",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P3",
+  "date_cloture": "2026-07-28",
+  "cout_eur": 196.07
+ },
+ {
+  "ticket_id": "MT000013",
+  "engin_id": "EN00155",
+  "date_ouverture": "2026-07-24",
+  "type_panne": "vandalisme",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P2",
+  "date_cloture": "2026-07-28",
+  "cout_eur": 337.57
+ },
+ {
+  "ticket_id": "MT000014",
+  "engin_id": "EN00234",
+  "date_ouverture": "2026-07-24",
+  "type_panne": "batterie",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P3",
+  "date_cloture": "2026-07-30"
+ },
+ {
+  "ticket_id": "MT000015",
+  "engin_id": "EN00294",
+  "date_ouverture": "2026-07-24",
+  "type_panne": "frein",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P3",
+  "date_cloture": "2026-07-30"
+ },
+ {
+  "ticket_id": "MT000016",
+  "engin_id": "EN00511",
+  "date_ouverture": "2026-07-24",
+  "type_panne": "pneu",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P1",
+  "date_cloture": "2026-07-26"
+ },
+ {
+  "ticket_id": "MT000017",
+  "engin_id": "EN00224",
+  "date_ouverture": "2026-07-25",
+  "type_panne": "moteur",
+  "commentaire": "Pneu avant creve.",
+  "priorite": "P1",
+  "date_cloture": "2026-07-27",
+  "cout_eur": 66.85
+ },
+ {
+  "ticket_id": "MT000018",
+  "engin_id": "EN00225",
+  "date_ouverture": "2026-07-25",
+  "type_panne": "gps",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000019",
+  "engin_id": "EN00161",
+  "date_ouverture": "2026-07-26",
+  "type_panne": "moteur",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P3"
+ }
+]

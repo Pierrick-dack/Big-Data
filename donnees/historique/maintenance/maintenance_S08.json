@@ -1,0 +1,89 @@
+[
+ {
+  "ticket_id": "MT000128",
+  "engin_id": "EN00070",
+  "date_ouverture": "2026-09-09",
+  "type_panne": "frein",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P2",
+  "technicien": {
+   "id": "TEC010",
+   "equipe": "atelier"
+  }
+ },
+ {
+  "ticket_id": "MT000129",
+  "engin_id": "EN00348",
+  "date_ouverture": "2026-09-09",
+  "type_panne": "frein",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-14",
+  "cout_eur": 260.18
+ },
+ {
+  "ticket_id": "MT000130",
+  "engin_id": "EN00558",
+  "date_ouverture": "2026-09-09",
+  "type_panne": "vandalisme",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000131",
+  "engin_id": "EN00406",
+  "date_ouverture": "2026-09-10",
+  "type_panne": "frein",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P1",
+  "cout_eur": 53.36
+ },
+ {
+  "ticket_id": "MT000132",
+  "engin_id": "EN00560",
+  "date_ouverture": "2026-09-10",
+  "type_panne": "pneu",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P1"
+ },
+ {
+  "ticket_id": "MT000133",
+  "engin_id": "EN00097",
+  "date_ouverture": "2026-09-11",
+  "type_panne": "batterie",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P2"
+ },
+ {
+  "ticket_id": "MT000134",
+  "engin_id": "EN00214",
+  "date_ouverture": "2026-09-11",
+  "type_panne": "vandalisme",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-17"
+ },
+ {
+  "ticket_id": "MT000135",
+  "engin_id": "EN00211",
+  "date_ouverture": "2026-09-13",
+  "type_panne": "moteur",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-18",
+  "cout_eur": 151.38,
+  "technicien": {
+   "id": "TEC011",
+   "equipe": "mobile"
+  }
+ },
+ {
+  "ticket_id": "MT000136",
+  "engin_id": "EN00378",
+  "date_ouverture": "2026-09-13",
+  "type_panne": "gps",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-17"
+ }
+]

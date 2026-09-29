@@ -1,0 +1,143 @@
+[
+ {
+  "ticket_id": "MT000113",
+  "engin_id": "EN00086",
+  "date_ouverture": "2026-08-31",
+  "type_panne": "moteur",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P3",
+  "date_cloture": "2026-09-06"
+ },
+ {
+  "ticket_id": "MT000114",
+  "engin_id": "EN00264",
+  "date_ouverture": "2026-08-31",
+  "type_panne": "batterie",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-02"
+ },
+ {
+  "ticket_id": "MT000115",
+  "engin_id": "EN00425",
+  "date_ouverture": "2026-08-31",
+  "type_panne": "moteur",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-06"
+ },
+ {
+  "ticket_id": "MT000116",
+  "engin_id": "EN00135",
+  "date_ouverture": "2026-09-02",
+  "type_panne": "batterie",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-04",
+  "cout_eur": 188.69
+ },
+ {
+  "ticket_id": "MT000117",
+  "engin_id": "EN00222",
+  "date_ouverture": "2026-09-02",
+  "type_panne": "moteur",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P3"
+ },
+ {
+  "ticket_id": "MT000118",
+  "engin_id": "EN00598",
+  "date_ouverture": "2026-09-02",
+  "type_panne": "vandalisme",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P3",
+  "technicien": {
+   "id": "TEC002",
+   "equipe": "mobile"
+  }
+ },
+ {
+  "ticket_id": "MT000119",
+  "engin_id": "EN00120",
+  "date_ouverture": "2026-09-03",
+  "type_panne": "vandalisme",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-05"
+ },
+ {
+  "ticket_id": "MT000120",
+  "engin_id": "EN00116",
+  "date_ouverture": "2026-09-04",
+  "type_panne": "gps",
+  "commentaire": "RAS apres controle.",
+  "priorite": "P1"
+ },
+ {
+  "ticket_id": "MT000121",
+  "engin_id": "EN00480",
+  "date_ouverture": "2026-09-04",
+  "type_panne": "gps",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P3",
+  "date_cloture": "2026-09-05"
+ },
+ {
+  "ticket_id": "MT000122",
+  "engin_id": "EN00206",
+  "date_ouverture": "2026-09-05",
+  "type_panne": "frein",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P2",
+  "date_cloture": "2026-09-11"
+ },
+ {
+  "ticket_id": "MT000123",
+  "engin_id": "EN00224",
+  "date_ouverture": "2026-09-06",
+  "type_panne": "moteur",
+  "commentaire": "Frein arriere qui grince.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-09"
+ },
+ {
+  "ticket_id": "MT000124",
+  "engin_id": "EN00258",
+  "date_ouverture": "2026-09-06",
+  "type_panne": "batterie",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P2",
+  "cout_eur": 99.54
+ },
+ {
+  "ticket_id": "MT000125",
+  "engin_id": "EN00321",
+  "date_ouverture": "2026-09-06",
+  "type_panne": "gps",
+  "commentaire": "Engin retrouve couche, guidon tordu.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-12",
+  "cout_eur": 273.18
+ },
+ {
+  "ticket_id": "MT000126",
+  "engin_id": "EN00451",
+  "date_ouverture": "2026-09-06",
+  "type_panne": "moteur",
+  "commentaire": "GPS envoie des positions incoherentes.",
+  "priorite": "P1",
+  "date_cloture": "2026-09-09",
+  "technicien": {
+   "id": "TEC011",
+   "equipe": "mobile"
+  }
+ },
+ {
+  "ticket_id": "MT000127",
+  "engin_id": "EN00561",
+  "date_ouverture": "2026-09-06",
+  "type_panne": "frein",
+  "commentaire": "Ne demarre plus, retour atelier.",
+  "priorite": "P1"
+ }
+]

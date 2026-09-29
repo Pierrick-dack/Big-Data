@@ -1,0 +1,241 @@
+﻿id_intervention;ref_engin;ville;date_alerte;date_intervention;batterie_avant;batterie_apres;resultat;technicien;commentaire
+VS-0003653;MC-EN00175;LYON;06/08/2026 21:06;07/08/2026 07:12;15;99;Réalisée;Adam Garcia;
+VS-0003654;MC-EN00178;LYON;06/08/2026 21:28;07/08/2026 07:06;16;97;Réalisée;Ilyes Simon;Batterie remplacee, capot a revoir
+VS-0003655;MC-EN00145;LYON;06/08/2026 23:04;07/08/2026 07:05;6;97;Réalisée;Camille Petit;Batterie remplacee, capot a revoir
+VS-0003656;MC-EN00250;NANTES;06/08/2026 21:19;07/08/2026 07:03;3;;Engin introuvable;Noah Bernard;
+VS-0003657;MC-EN00299;NANTES;06/08/2026 21:56;07/08/2026 07:13;16;99;Réalisée;Noah Bernard;
+VS-0003658;MC-EN00380;LILLE;06/08/2026 21:09;07/08/2026 07:11;3;99;Réalisée;Louise Dubois;
+VS-0003659;MC-EN00495;LILLE;06/08/2026 21:34;07/08/2026 07:01;16;96;Réalisée;Louise Dubois;
+VS-0003660;MC-EN00514;GRENOBLE;06/08/2026 22:59;07/08/2026 07:11;5;97;Réalisée;Noah Simon;Acces difficile, stationnement genant
+VS-0003661;MC-EN00218;LYON;06/08/2026 23:05;07/08/2026 07:24;16;97;Réalisée;Ilyes Simon;Acces difficile, stationnement genant
+VS-0003662;MC-EN00006;LYON;06/08/2026 23:36;07/08/2026 07:20;16;99;Réalisée;Ilyes Simon;
+VS-0003663;MC-EN00119;LYON;07/08/2026 00:17;07/08/2026 07:15;17;99;Réalisée;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003664;MC-EN00288;NANTES;06/08/2026 22:23;07/08/2026 07:16;4;95;Réalisée;Mehdi Robert;
+VS-0003665;MC-EN00388;LILLE;06/08/2026 21:41;07/08/2026 07:16;16;97;Réalisée;Louise Dubois;
+VS-0003666;MC-EN00455;LILLE;06/08/2026 22:15;07/08/2026 07:29;16;;Engin introuvable;Louise Dubois;Engin deplace par un usager
+VS-0003667;MC-EN00570;GRENOBLE;07/08/2026 00:11;07/08/2026 07:22;7;99;Réalisée;Ilyes Girard;
+VS-0003668;MC-EN00527;GRENOBLE;07/08/2026 00:22;07/08/2026 07:27;8;99;Réalisée;Adam Robert;Acces difficile, stationnement genant
+VS-0003669;MC-EN00211;LYON;07/08/2026 00:41;07/08/2026 07:34;8;96;Réalisée;Camille Petit;
+VS-0003670;MC-EN00068;LYON;07/08/2026 00:59;07/08/2026 07:33;8;97;Réalisée;Adam Garcia;
+VS-0003671;MC-EN00238;NANTES;06/08/2026 22:26;07/08/2026 07:42;16;97;Réalisée;Noah Bernard;
+VS-0003672;MC-EN00366;LILLE;06/08/2026 22:46;07/08/2026 07:32;16;97;Réalisée;Hugo Bernard;
+VS-0003673;MC-EN00385;LILLE;06/08/2026 23:46;07/08/2026 07:44;16;95;Réalisée;Louise Dubois;
+VS-0003674;MC-EN00599;GRENOBLE;07/08/2026 03:11;07/08/2026 07:30;12;96;Réalisée;Sofia Nguyen;
+VS-0003675;MC-EN00069;LYON;07/08/2026 01:19;07/08/2026 07:50;17;98;Réalisée;Karim Simon;
+VS-0003676;MC-EN00123;LYON;07/08/2026 03:11;07/08/2026 07:47;18;97;Réalisée;Ilyes Simon;
+VS-0003677;MC-EN00173;LYON;07/08/2026 03:13;07/08/2026 07:58;18;98;Réalisée;Camille Petit;
+VS-0003678;MC-EN00289;NANTES;07/08/2026 00:26;07/08/2026 07:49;16;99;Réalisée;Mehdi Robert;Engin deplace par un usager
+VS-0003679;MC-EN00341;NANTES;07/08/2026 00:59;07/08/2026 07:46;17;99;Réalisée;Noah Bernard;Batterie remplacee, capot a revoir
+VS-0003680;MC-EN00492;LILLE;07/08/2026 00:54;07/08/2026 07:56;17;96;Réalisée;Camille Dubois;
+VS-0003681;MC-EN00488;LILLE;07/08/2026 01:03;07/08/2026 07:47;8;99;Réalisée;Louise Dubois;
+VS-0003682;MC-EN00559;GRENOBLE;07/08/2026 03:23;07/08/2026 07:59;11;95;Réalisée;Noah Simon;Engin deplace par un usager
+VS-0003683;MC-EN00104;LYON;07/08/2026 03:39;07/08/2026 08:14;18;98;Réalisée;Ilyes Simon;Engin deplace par un usager
+VS-0003684;MC-EN00136;LYON;07/08/2026 04:42;07/08/2026 08:04;13;96;Réalisée;Camille Petit;Engin deplace par un usager
+VS-0003685;MC-EN00105;LYON;07/08/2026 05:05;07/08/2026 08:13;18;95;Réalisée;Karim Simon;Acces difficile, stationnement genant
+VS-0003686;MC-EN00248;NANTES;07/08/2026 01:50;07/08/2026 08:00;17;99;Réalisée;Noah Bernard;
+VS-0003687;MC-EN00493;LILLE;07/08/2026 02:25;07/08/2026 08:13;17;98;Réalisée;Ines Dubois;
+VS-0003688;MC-EN00389;LILLE;07/08/2026 03:30;07/08/2026 08:09;18;99;Réalisée;Ines Dubois;Batterie remplacee, capot a revoir
+VS-0003689;MC-EN00580;GRENOBLE;07/08/2026 05:54;07/08/2026 08:11;16;97;Réalisée;Sofia Nguyen;
+VS-0003690;MC-EN00107;LYON;07/08/2026 05:11;07/08/2026 08:17;18;96;Réalisée;Adam Garcia;Acces difficile, stationnement genant
+VS-0003691;MC-EN00133;LYON;07/08/2026 05:24;07/08/2026 08:25;18;98;Réalisée;Camille Petit;
+VS-0003692;MC-EN00307;NANTES;07/08/2026 02:48;07/08/2026 08:21;14;99;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003693;MC-EN00304;NANTES;07/08/2026 02:59;07/08/2026 08:28;17;96;Réalisée;Gabriel Laurent;
+VS-0003694;MC-EN00405;LILLE;07/08/2026 04:20;07/08/2026 08:27;0;97;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003695;MC-EN00553;GRENOBLE;07/08/2026 06:16;07/08/2026 08:29;3;95;Réalisée;Ilyes Girard;
+VS-0003696;MC-EN00170;LYON;07/08/2026 06:10;07/08/2026 08:38;13;;Engin introuvable;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003697;MC-EN00205;LYON;07/08/2026 06:16;07/08/2026 08:31;12;96;Réalisée;Ilyes Simon;Batterie remplacee, capot a revoir
+VS-0003698;MC-EN00221;NANTES;07/08/2026 03:12;07/08/2026 08:31;17;;Réalisée;Noah Bernard;
+VS-0003699;MC-EN00334;NANTES;07/08/2026 03:26;07/08/2026 08:43;17;98;Réalisée;Mehdi Robert;Engin deplace par un usager
+VS-0003700;MC-EN00461;LILLE;07/08/2026 02:40;07/08/2026 08:32;11;95;Réalisée;Camille Dubois;Engin deplace par un usager
+VS-0003701;MC-EN00427;LILLE;07/08/2026 06:09;07/08/2026 08:32;15;96;Réalisée;Louise Dubois;Batterie remplacee, capot a revoir
+VS-0003702;MC-EN00565;GRENOBLE;07/08/2026 07:02;07/08/2026 08:35;18;97;Réalisée;Adam Robert;Engin deplace par un usager
+VS-0003703;MC-EN00160;LYON;07/08/2026 06:25;07/08/2026 08:48;17;95;Réalisée;Adam Garcia;
+VS-0003704;MC-EN00142;LYON;07/08/2026 06:55;07/08/2026 08:56;16;98;Réalisée;Adam Garcia;
+VS-0003705;MC-EN00226;NANTES;07/08/2026 03:40;07/08/2026 08:47;17;98;Réalisée;Noah Bernard;
+VS-0003706;MC-EN00485;LILLE;07/08/2026 06:22;07/08/2026 08:58;15;97;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003707;MC-EN00374;LILLE;07/08/2026 07:19;07/08/2026 08:53;13;95;Réalisée;Hugo Bernard;Acces difficile, stationnement genant
+VS-0003708;MC-EN00556;GRENOBLE;07/08/2026 07:29;07/08/2026 08:53;19;97;Réalisée;Adam Robert;Acces difficile, stationnement genant
+VS-0003709;MC-EN00099;LYON;07/08/2026 07:26;07/08/2026 09:10;15;97;Réalisée;Ilyes Simon;
+VS-0003710;MC-EN00018;LYON;07/08/2026 07:31;07/08/2026 09:05;13;97;Réalisée;Camille Petit;
+VS-0003711;MC-EN00078;LYON;07/08/2026 07:51;07/08/2026 09:11;19;97;Réalisée;Gabriel Roux;Engin deplace par un usager
+VS-0003712;MC-EN00273;NANTES;07/08/2026 03:44;07/08/2026 09:03;17;97;Réalisée;Sofia Bernard;Acces difficile, stationnement genant
+VS-0003713;MC-EN00303;NANTES;07/08/2026 03:54;07/08/2026 09:07;17;98;Réalisée;Noah Bernard;Acces difficile, stationnement genant
+VS-0003714;MC-EN00498;LILLE;07/08/2026 07:26;07/08/2026 09:05;0;98;Réalisée;Ines Dubois;
+VS-0003715;MC-EN00455;LILLE;07/08/2026 07:33;07/08/2026 09:07;15;99;Réalisée;Louise Dubois;
+VS-0003716;MC-EN00518;GRENOBLE;07/08/2026 07:42;07/08/2026 09:06;1;98;Réalisée;Noah Simon;Engin deplace par un usager
+VS-0003717;MC-EN00004;LYON;07/08/2026 07:52;07/08/2026 09:15;16;96;Réalisée;Camille Petit;Batterie remplacee, capot a revoir
+VS-0003718;MC-EN00174;LYON;07/08/2026 08:01;07/08/2026 09:28;19;98;Réalisée;Karim Simon;
+VS-0003719;MC-EN00130;LYON;07/08/2026 08:19;07/08/2026 09:27;19;96;Réalisée;Gabriel Roux;Engin deplace par un usager
+VS-0003720;MC-EN00313;NANTES;07/08/2026 03:55;07/08/2026 09:26;10;98;Réalisée;Gabriel Laurent;Engin deplace par un usager
+VS-0003721;MC-EN00489;LILLE;07/08/2026 07:33;07/08/2026 09:15;19;99;Réalisée;Louise Roux;
+VS-0003722;MC-EN00414;LILLE;07/08/2026 07:43;07/08/2026 09:18;14;98;Réalisée;Camille Dubois;
+VS-0003723;MC-EN00509;GRENOBLE;07/08/2026 07:49;07/08/2026 09:24;0;98;Réalisée;Rayan Fournier;
+VS-0003724;MC-EN00103;LYON;07/08/2026 06:48;07/08/2026 09:34;0;98;Réalisée;Gabriel Roux;
+VS-0003725;MC-EN00112;LYON;07/08/2026 08:26;07/08/2026 09:43;19;97;Réalisée;Gabriel Roux;
+VS-0003726;MC-EN00093;LYON;07/08/2026 08:38;07/08/2026 09:32;19;97;Réalisée;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003727;MC-EN00272;NANTES;07/08/2026 03:58;07/08/2026 09:34;0;98;Réalisée;Mehdi Robert;
+VS-0003728;MC-EN00328;NANTES;07/08/2026 04:31;07/08/2026 09:42;17;97;Réalisée;Ines Moreau;
+VS-0003729;MC-EN00401;LILLE;07/08/2026 07:58;07/08/2026 09:38;8;98;Réalisée;Camille Dubois;
+VS-0003730;MC-EN00456;LILLE;07/08/2026 07:58;07/08/2026 09:31;11;97;Réalisée;Louise Dubois;Batterie remplacee, capot a revoir
+VS-0003731;MC-EN00524;GRENOBLE;07/08/2026 07:51;07/08/2026 09:32;15;95;Réalisée;Adam Robert;Batterie remplacee, capot a revoir
+VS-0003732;MC-EN00587;GRENOBLE;07/08/2026 08:14;07/08/2026 09:39;9;99;Réalisée;Sofia Nguyen;
+VS-0003733;MC-EN00170;LYON;07/08/2026 08:48;07/08/2026 09:57;13;95;Réalisée;Karim Simon;Engin deplace par un usager
+VS-0003734;MC-EN00035;LYON;07/08/2026 08:50;07/08/2026 09:51;9;99;Réalisée;Camille Petit;Engin deplace par un usager
+VS-0003735;MC-EN00295;NANTES;07/08/2026 05:11;07/08/2026 09:55;18;96;Réalisée;Mehdi Robert;Acces difficile, stationnement genant
+VS-0003736;MC-EN00292;NANTES;07/08/2026 06:12;07/08/2026 09:47;18;98;Réalisée;Sofia Bernard;Acces difficile, stationnement genant
+VS-0003737;MC-EN00404;LILLE;07/08/2026 08:10;07/08/2026 09:54;1;;Réalisée;Louise Roux;
+VS-0003738;MC-EN00446;LILLE;07/08/2026 08:19;07/08/2026 09:55;9;98;Réalisée;Camille Dubois;Acces difficile, stationnement genant
+VS-0003739;MC-EN00545;GRENOBLE;07/08/2026 08:24;07/08/2026 09:58;14;98;Réalisée;Noah Simon;
+VS-0003740;MC-EN00558;GRENOBLE;07/08/2026 08:26;07/08/2026 09:55;4;99;Réalisée;Ilyes Girard;
+VS-0003741;MC-EN00101;LYON;07/08/2026 08:50;07/08/2026 10:10;16;96;Réalisée;Ilyes Simon;Acces difficile, stationnement genant
+VS-0003742;MC-EN00039;LYON;07/08/2026 08:53;07/08/2026 10:07;7;95;Réalisée;Adam Garcia;
+VS-0003743;MC-EN00265;NANTES;07/08/2026 06:44;07/08/2026 10:05;18;99;Réalisée;Gabriel Laurent;
+VS-0003744;MC-EN00400;LILLE;07/08/2026 08:05;07/08/2026 10:02;13;96;Réalisée;Louise Roux;
+VS-0003745;MC-EN00597;GRENOBLE;07/08/2026 08:27;07/08/2026 10:02;2;95;Réalisée;Ilyes Girard;Acces difficile, stationnement genant
+VS-0003746;MC-EN00548;GRENOBLE;07/08/2026 08:32;07/08/2026 10:10;18;98;Réalisée;Rayan Fournier;Batterie remplacee, capot a revoir
+VS-0003747;MC-EN00042;LYON;07/08/2026 08:51;07/08/2026 10:29;5;95;Réalisée;Ilyes Simon;Batterie remplacee, capot a revoir
+VS-0003748;MC-EN00118;LYON;07/08/2026 08:54;07/08/2026 10:26;12;96;Réalisée;Gabriel Roux;Batterie remplacee, capot a revoir
+VS-0003749;MC-EN00358;NANTES;07/08/2026 06:54;07/08/2026 10:28;18;98;Réalisée;Mehdi Robert;Engin deplace par un usager
+VS-0003750;MC-EN00379;LILLE;07/08/2026 08:34;07/08/2026 10:23;12;97;Réalisée;Camille Dubois;
+VS-0003751;MC-EN00575;GRENOBLE;07/08/2026 09:00;07/08/2026 10:26;18;97;Réalisée;Ilyes Girard;Acces difficile, stationnement genant
+VS-0003752;MC-EN00135;LYON;07/08/2026 08:57;07/08/2026 10:35;11;96;Réalisée;Ilyes Simon;Batterie remplacee, capot a revoir
+VS-0003753;MC-EN00096;LYON;07/08/2026 08:58;07/08/2026 10:41;17;96;Réalisée;Karim Simon;Batterie remplacee, capot a revoir
+VS-0003754;MC-EN00327;NANTES;07/08/2026 07:09;07/08/2026 10:41;18;97;Réalisée;Mehdi Robert;Engin deplace par un usager
+VS-0003755;MC-EN00365;LILLE;07/08/2026 08:49;07/08/2026 10:41;18;96;Réalisée;Louise Dubois;
+VS-0003756;MC-EN00420;LILLE;07/08/2026 09:04;07/08/2026 10:39;0;97;Réalisée;Louise Dubois;
+VS-0003757;MC-EN00537;GRENOBLE;07/08/2026 10:05;07/08/2026 10:37;16;97;Réalisée;Sofia Nguyen;Batterie remplacee, capot a revoir
+VS-0003758;MC-EN00203;LYON;07/08/2026 09:14;07/08/2026 10:54;7;96;Réalisée;Camille Petit;
+VS-0003759;MC-EN00214;LYON;07/08/2026 09:27;07/08/2026 10:52;0;97;Réalisée;Ilyes Simon;Batterie remplacee, capot a revoir
+VS-0003760;MC-EN00229;NANTES;07/08/2026 07:17;07/08/2026 10:55;14;97;Réalisée;Sofia Bernard;Engin deplace par un usager
+VS-0003761;MC-EN00250;NANTES;07/08/2026 07:21;07/08/2026 10:57;0;96;Réalisée;Sofia Bernard;
+VS-0003762;MC-EN00406;LILLE;07/08/2026 09:21;07/08/2026 10:58;15;97;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003763;MC-EN00549;GRENOBLE;07/08/2026 10:14;07/08/2026 10:59;18;97;Réalisée;Adam Robert;
+VS-0003764;MC-EN00001;LYON;07/08/2026 09:28;07/08/2026 11:13;0;97;Réalisée;Karim Simon;Batterie remplacee, capot a revoir
+VS-0003765;MC-EN00028;LYON;07/08/2026 09:28;07/08/2026 11:03;14;99;Réalisée;Ilyes Simon;Acces difficile, stationnement genant
+VS-0003766;MC-EN00005;LYON;07/08/2026 09:30;07/08/2026 11:00;16;98;Réalisée;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003767;MC-EN00360;NANTES;07/08/2026 07:23;07/08/2026 11:00;13;99;Réalisée;Mehdi Robert;
+VS-0003768;MC-EN00464;LILLE;07/08/2026 09:40;07/08/2026 11:08;17;99;Réalisée;Ines Dubois;
+VS-0003769;MC-EN00479;LILLE;07/08/2026 09:48;07/08/2026 11:11;11;95;Réalisée;Louise Dubois;
+VS-0003770;MC-EN00584;GRENOBLE;07/08/2026 10:27;07/08/2026 11:14;19;98;Réalisée;Noah Simon;Acces difficile, stationnement genant
+VS-0003771;MC-EN00180;LYON;07/08/2026 09:31;07/08/2026 11:25;15;95;Réalisée;Karim Simon;
+VS-0003772;MC-EN00058;LYON;07/08/2026 09:35;07/08/2026 11:21;13;96;Réalisée;Camille Petit;Acces difficile, stationnement genant
+VS-0003773;MC-EN00312;NANTES;07/08/2026 07:33;07/08/2026 11:15;15;96;Réalisée;Noah Bernard;Batterie remplacee, capot a revoir
+VS-0003774;MC-EN00423;LILLE;07/08/2026 09:51;07/08/2026 11:21;19;97;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003775;MC-EN00496;LILLE;07/08/2026 09:51;07/08/2026 11:18;19;99;Réalisée;Hugo Bernard;Engin deplace par un usager
+VS-0003776;MC-EN00563;GRENOBLE;07/08/2026 11:14;07/08/2026 11:30;19;97;Réalisée;Adam Robert;Batterie remplacee, capot a revoir
+VS-0003777;MC-EN00073;LYON;07/08/2026 09:48;07/08/2026 11:44;19;95;Réalisée;Adam Garcia;Acces difficile, stationnement genant
+VS-0003778;MC-EN00027;LYON;07/08/2026 10:46;07/08/2026 11:38;19;96;Réalisée;Karim Simon;Acces difficile, stationnement genant
+VS-0003779;MC-EN00131;LYON;07/08/2026 11:13;07/08/2026 11:44;19;96;Réalisée;Karim Simon;
+VS-0003780;MC-EN00338;NANTES;07/08/2026 07:33;07/08/2026 11:33;18;99;Réalisée;Noah Bernard;
+VS-0003781;MC-EN00233;NANTES;07/08/2026 07:38;07/08/2026 11:32;14;95;Réalisée;Ines Moreau;Batterie remplacee, capot a revoir
+VS-0003782;MC-EN00408;LILLE;07/08/2026 10:08;07/08/2026 11:37;18;95;Réalisée;Camille Dubois;Batterie remplacee, capot a revoir
+VS-0003783;MC-EN00478;LILLE;07/08/2026 10:38;07/08/2026 11:31;19;98;Réalisée;Louise Roux;
+VS-0003784;MC-EN00512;GRENOBLE;07/08/2026 11:14;07/08/2026 11:43;18;98;Réalisée;Adam Robert;Batterie remplacee, capot a revoir
+VS-0003785;MC-EN00186;LYON;07/08/2026 11:36;07/08/2026 11:50;19;97;Réalisée;Karim Simon;Acces difficile, stationnement genant
+VS-0003786;MC-EN00253;NANTES;07/08/2026 08:02;07/08/2026 11:56;18;99;Réalisée;Mehdi Robert;Acces difficile, stationnement genant
+VS-0003787;MC-EN00317;NANTES;07/08/2026 08:19;07/08/2026 11:49;18;99;Réalisée;Sofia Bernard;
+VS-0003788;MC-EN00361;LILLE;07/08/2026 11:49;07/08/2026 12:03;19;95;Réalisée;Hugo Bernard;
+VS-0003789;MC-EN00402;LILLE;07/08/2026 11:53;07/08/2026 12:00;19;99;Réalisée;Camille Dubois;Batterie remplacee, capot a revoir
+VS-0003790;MC-EN00270;NANTES;07/08/2026 12:08;07/08/2026 12:01;11;99;Réalisée;Gabriel Laurent;Batterie remplacee, capot a revoir
+VS-0003791;MC-EN00294;NANTES;07/08/2026 08:57;07/08/2026 12:06;17;96;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003792;MC-EN00451;LILLE;07/08/2026 12:13;07/08/2026 12:20;19;98;Réalisée;Louise Roux;
+VS-0003793;MC-EN00588;GRENOBLE;07/08/2026 12:01;07/08/2026 12:21;19;98;Réalisée;Adam Robert;Acces difficile, stationnement genant
+VS-0003794;MC-EN00011;LYON;07/08/2026 12:16;07/08/2026 12:25;19;97;Réalisée;Karim Simon;
+VS-0003795;MC-EN00244;NANTES;07/08/2026 09:03;07/08/2026 12:17;2;97;Réalisée;Ines Moreau;
+VS-0003796;MC-EN00237;NANTES;07/08/2026 09:09;07/08/2026 12:31;15;98;Réalisée;Ines Moreau;Batterie remplacee, capot a revoir
+VS-0003797;MC-EN00216;LYON;07/08/2026 12:30;07/08/2026 12:52;18;99;Réalisée;Camille Petit;Batterie remplacee, capot a revoir
+VS-0003798;MC-EN00310;NANTES;07/08/2026 09:15;07/08/2026 12:50;13;95;Réalisée;Ines Moreau;Engin deplace par un usager
+VS-0003799;MC-EN00192;LYON;07/08/2026 12:58;07/08/2026 13:12;18;96;Réalisée;Gabriel Roux;
+VS-0003800;MC-EN00189;LYON;07/08/2026 13:12;07/08/2026 13:29;19;98;Réalisée;Adam Garcia;
+VS-0003801;MC-EN00291;NANTES;07/08/2026 09:17;07/08/2026 13:09;10;96;Réalisée;Ines Moreau;
+VS-0003802;MC-EN00504;GRENOBLE;07/08/2026 13:03;07/08/2026 13:23;19;96;Réalisée;Ilyes Girard;
+VS-0003803;MC-EN00074;LYON;07/08/2026 13:19;07/08/2026 13:29;17;96;Réalisée;Camille Petit;
+VS-0003804;MC-EN00259;NANTES;07/08/2026 09:26;07/08/2026 13:16;0;96;Réalisée;Gabriel Laurent;Engin deplace par un usager
+VS-0003805;MC-EN00415;LILLE;07/08/2026 12:35;07/08/2026 13:19;0;96;Réalisée;Camille Dubois;
+VS-0003806;MC-EN00467;LILLE;07/08/2026 12:45;07/08/2026 13:22;13;97;Réalisée;Louise Roux;Batterie remplacee, capot a revoir
+VS-0003807;MC-EN00110;LYON;07/08/2026 13:36;07/08/2026 13:56;19;96;Réalisée;Ilyes Simon;
+VS-0003808;MC-EN00054;LYON;07/08/2026 13:38;07/08/2026 13:50;19;95;Réalisée;Ilyes Simon;
+VS-0003809;MC-EN00337;NANTES;07/08/2026 09:47;07/08/2026 13:43;14;;Engin introuvable;Mehdi Robert;
+VS-0003810;MC-EN00235;NANTES;07/08/2026 09:51;07/08/2026 13:43;0;;Réalisée;Noah Bernard;Engin deplace par un usager
+VS-0003811;MC-EN00023;LYON;07/08/2026 13:46;07/08/2026 14:01;19;98;Réalisée;Camille Petit;Engin deplace par un usager
+VS-0003812;MC-EN00309;NANTES;07/08/2026 10:00;07/08/2026 13:53;18;95;Réalisée;Mehdi Robert;Acces difficile, stationnement genant
+VS-0003813;MC-EN00319;NANTES;07/08/2026 10:27;07/08/2026 13:45;18;95;Réalisée;Sofia Bernard;
+VS-0003814;MC-EN00368;LILLE;07/08/2026 13:53;07/08/2026 14:11;19;98;Réalisée;Hugo Bernard;Batterie remplacee, capot a revoir
+VS-0003815;MC-EN00055;LYON;07/08/2026 14:08;07/08/2026 14:25;19;97;Réalisée;Gabriel Roux;Engin deplace par un usager
+VS-0003816;MC-EN00240;NANTES;07/08/2026 10:32;07/08/2026 14:07;18;97;Réalisée;Ines Moreau;
+VS-0003817;MC-EN00349;NANTES;07/08/2026 10:33;07/08/2026 14:01;17;97;Réalisée;Gabriel Laurent;Acces difficile, stationnement genant
+VS-0003818;MC-EN00424;LILLE;07/08/2026 14:00;07/08/2026 14:11;19;98;Réalisée;Hugo Bernard;Acces difficile, stationnement genant
+VS-0003819;MC-EN00333;NANTES;07/08/2026 10:36;07/08/2026 14:16;13;96;Réalisée;Sofia Bernard;
+VS-0003820;MC-EN00339;NANTES;07/08/2026 10:54;07/08/2026 14:25;18;95;Réalisée;Sofia Bernard;Engin deplace par un usager
+VS-0003821;MC-EN00418;LILLE;07/08/2026 14:18;07/08/2026 14:30;19;98;Réalisée;Hugo Bernard;Acces difficile, stationnement genant
+VS-0003822;MC-EN00199;LYON;07/08/2026 14:42;07/08/2026 14:58;19;97;Réalisée;Adam Garcia;
+VS-0003823;MC-EN00348;NANTES;07/08/2026 11:01;07/08/2026 14:42;15;97;Réalisée;Sofia Bernard;
+VS-0003824;MC-EN00330;NANTES;07/08/2026 15:04;07/08/2026 14:40;15;99;Réalisée;Mehdi Robert;
+VS-0003825;MC-EN00522;GRENOBLE;07/08/2026 14:41;07/08/2026 14:49;19;98;Réalisée;Ilyes Girard;Batterie remplacee, capot a revoir
+VS-0003826;MC-EN00091;LYON;07/08/2026 14:52;07/08/2026 15:01;19;97;Réalisée;Ilyes Simon;Engin deplace par un usager
+VS-0003827;MC-EN00050;LYON;07/08/2026 14:53;07/08/2026 15:05;19;99;Réalisée;Gabriel Roux;Engin deplace par un usager
+VS-0003828;MC-EN00286;NANTES;07/08/2026 12:27;07/08/2026 14:49;9;;Réalisée;Sofia Bernard;Batterie remplacee, capot a revoir
+VS-0003829;MC-EN00386;LILLE;07/08/2026 14:56;07/08/2026 15:14;19;96;Réalisée;Louise Roux;
+VS-0003830;MC-EN00184;LYON;07/08/2026 15:03;07/08/2026 15:17;19;99;Réalisée;Ilyes Simon;Engin deplace par un usager
+VS-0003831;MC-EN00003;LYON;07/08/2026 15:05;07/08/2026 15:12;19;95;Réalisée;Ilyes Simon;Engin deplace par un usager
+VS-0003832;MC-EN00239;NANTES;07/08/2026 12:38;07/08/2026 15:12;18;95;Réalisée;Ines Moreau;
+VS-0003833;MC-EN00284;NANTES;07/08/2026 12:58;07/08/2026 15:07;19;97;Réalisée;Mehdi Robert;
+VS-0003834;MC-EN00315;NANTES;07/08/2026 13:05;07/08/2026 15:24;12;96;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003835;MC-EN00249;NANTES;07/08/2026 13:10;07/08/2026 15:26;19;96;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003836;MC-EN00266;NANTES;07/08/2026 13:15;07/08/2026 15:35;19;;Engin introuvable;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003837;MC-EN00298;NANTES;07/08/2026 13:16;07/08/2026 15:42;19;99;Réalisée;Sofia Bernard;
+VS-0003838;MC-EN00257;NANTES;07/08/2026 13:18;07/08/2026 15:56;18;96;Réalisée;Noah Bernard;
+VS-0003839;MC-EN00337;NANTES;07/08/2026 13:49;07/08/2026 15:45;13;95;Réalisée;Gabriel Laurent;
+VS-0003840;MC-EN00596;GRENOBLE;07/08/2026 15:55;07/08/2026 16:08;19;97;Réalisée;Rayan Fournier;
+VS-0003841;MC-EN00028;LYON;07/08/2026 15:49;07/08/2026 16:12;11;99;Réalisée;Ilyes Simon;
+VS-0003842;MC-EN00157;LYON;07/08/2026 16:04;07/08/2026 16:14;19;97;Réalisée;Adam Garcia;
+VS-0003843;MC-EN00297;NANTES;07/08/2026 13:55;07/08/2026 16:09;19;99;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003844;MC-EN00086;LYON;07/08/2026 16:17;07/08/2026 16:34;19;96;Réalisée;Karim Simon;
+VS-0003845;MC-EN00168;LYON;07/08/2026 16:21;07/08/2026 16:37;19;98;Réalisée;Gabriel Roux;Acces difficile, stationnement genant
+VS-0003846;MC-EN00269;NANTES;07/08/2026 14:04;07/08/2026 16:29;16;99;Réalisée;Sofia Bernard;
+VS-0003847;MC-EN00474;LILLE;07/08/2026 16:04;07/08/2026 16:25;16;96;Réalisée;Louise Dubois;
+VS-0003848;MC-EN00019;LYON;07/08/2026 16:24;07/08/2026 16:44;19;96;Réalisée;Adam Garcia;Acces difficile, stationnement genant
+VS-0003849;MC-EN00329;NANTES;07/08/2026 14:29;07/08/2026 16:42;19;96;Réalisée;Mehdi Robert;Acces difficile, stationnement genant
+VS-0003850;MC-EN00391;LILLE;07/08/2026 16:44;07/08/2026 16:55;19;97;Réalisée;Louise Roux;Engin deplace par un usager
+VS-0003851;MC-EN00591;GRENOBLE;07/08/2026 16:35;07/08/2026 16:53;19;95;Réalisée;Adam Robert;
+VS-0003852;MC-EN00256;NANTES;07/08/2026 14:32;07/08/2026 16:59;19;99;Réalisée;Mehdi Robert;
+VS-0003853;MC-EN00351;NANTES;07/08/2026 15:00;07/08/2026 16:50;19;98;Réalisée;Mehdi Robert;Batterie remplacee, capot a revoir
+VS-0003854;MC-EN00468;LILLE;07/08/2026 16:17;07/08/2026 16:52;0;96;Réalisée;Ines Dubois;
+VS-0003855;MC-EN00357;NANTES;07/08/2026 15:01;07/08/2026 17:05;19;99;Réalisée;Mehdi Robert;
+VS-0003856;MC-EN00305;NANTES;07/08/2026 15:05;07/08/2026 17:04;16;97;Réalisée;Noah Bernard;
+VS-0003857;MC-EN00340;NANTES;07/08/2026 15:10;07/08/2026 17:28;19;99;Réalisée;Gabriel Laurent;
+VS-0003858;MC-EN00416;LILLE;07/08/2026 17:23;07/08/2026 17:35;19;97;Réalisée;Camille Dubois;
+VS-0003859;MC-EN00551;GRENOBLE;07/08/2026 17:24;07/08/2026 17:39;17;97;Réalisée;Rayan Fournier;
+VS-0003860;MC-EN00177;LYON;07/08/2026 17:37;07/08/2026 17:51;19;98;Réalisée;Ilyes Simon;
+VS-0003861;MC-EN00352;NANTES;07/08/2026 15:37;07/08/2026 17:30;19;95;Réalisée;Ines Moreau;Engin deplace par un usager
+VS-0003862;MC-EN00301;NANTES;07/08/2026 15:46;07/08/2026 17:38;16;97;Réalisée;Noah Bernard;
+VS-0003863;MC-EN00383;LILLE;07/08/2026 17:33;07/08/2026 17:45;19;95;Réalisée;Louise Roux;
+VS-0003864;MC-EN00219;LYON;07/08/2026 17:57;07/08/2026 18:13;17;97;Réalisée;Gabriel Roux;
+VS-0003865;MC-EN00266;NANTES;07/08/2026 15:55;07/08/2026 17:58;18;97;Réalisée;Noah Bernard;Batterie remplacee, capot a revoir
+VS-0003866;MC-EN00354;NANTES;07/08/2026 16:23;07/08/2026 17:53;19;99;Réalisée;Noah Bernard;Acces difficile, stationnement genant
+VS-0003867;MC-EN00213;LYON;07/08/2026 18:07;07/08/2026 18:12;19;99;Réalisée;Camille Petit;Batterie remplacee, capot a revoir
+VS-0003868;MC-EN00276;NANTES;07/08/2026 17:33;07/08/2026 18:11;19;99;Réalisée;Mehdi Robert;
+VS-0003869;MC-EN00300;NANTES;07/08/2026 18:13;07/08/2026 18:22;19;95;Réalisée;Ines Moreau;
+VS-0003870;MC-EN00516;GRENOBLE;07/08/2026 18:10;07/08/2026 18:16;19;98;Réalisée;Ilyes Girard;
+VS-0003871;MC-EN00077;LYON;07/08/2026 18:41;07/08/2026 18:48;19;;Engin introuvable;Karim Simon;
+VS-0003872;MC-EN00077;LYON;07/08/2026 18:49;07/08/2026 19:03;19;97;Réalisée;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003873;MC-EN00347;NANTES;07/08/2026 19:00;07/08/2026 19:16;19;95;Réalisée;Ines Moreau;
+VS-0003874;MC-EN00498;LILLE;07/08/2026 18:31;07/08/2026 19:00;0;97;Réalisée;Louise Dubois;
+VS-0003875;MC-EN00600;GRENOBLE;07/08/2026 19:01;07/08/2026 19:11;19;96;Réalisée;Rayan Fournier;Engin deplace par un usager
+VS-0003876;MC-EN00453;LILLE;07/08/2026 19:55;07/08/2026 19:24;18;95;Réalisée;Ines Dubois;Acces difficile, stationnement genant
+VS-0003877;MC-EN00409;LILLE;07/08/2026 19:12;07/08/2026 19:32;16;96;Réalisée;Hugo Bernard;
+VS-0003878;MC-EN00127;LYON;07/08/2026 19:41;07/08/2026 19:48;19;97;Réalisée;Camille Petit;Batterie remplacee, capot a revoir
+VS-0003879;MC-EN00083;LYON;07/08/2026 19:43;07/08/2026 19:59;19;96;Réalisée;Gabriel Roux;
+VS-0003880;MC-EN00426;LILLE;07/08/2026 19:12;07/08/2026 19:44;12;96;Réalisée;Ines Dubois;Acces difficile, stationnement genant
+VS-0003881;MC-EN00412;LILLE;07/08/2026 19:43;07/08/2026 20:03;15;99;Réalisée;Louise Dubois;
+VS-0003882;MC-EN00450;LILLE;07/08/2026 19:46;07/08/2026 20:00;11;98;Réalisée;Ines Dubois;
+VS-0003883;MC-EN00031;LYON;07/08/2026 20:16;07/08/2026 20:34;19;98;Réalisée;Ilyes Simon;Acces difficile, stationnement genant
+VS-0003884;MC-EN00044;LYON;07/08/2026 20:17;07/08/2026 20:31;19;95;Réalisée;Adam Garcia;Batterie remplacee, capot a revoir
+VS-0003885;MC-EN00417;LILLE;07/08/2026 19:51;07/08/2026 20:16;15;96;Réalisée;Louise Dubois;
+VS-0003886;MC-EN00271;NANTES;07/08/2026 20:41;07/08/2026 20:46;19;99;Réalisée;Noah Bernard;Batterie remplacee, capot a revoir
+VS-0003887;MC-EN00382;LILLE;07/08/2026 19:57;07/08/2026 20:37;14;98;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003888;MC-EN00438;LILLE;07/08/2026 20:03;07/08/2026 20:36;19;98;Réalisée;Hugo Bernard;Engin deplace par un usager
+VS-0003889;MC-EN00556;GRENOBLE;07/08/2026 20:18;07/08/2026 20:35;5;96;Réalisée;Noah Simon;Acces difficile, stationnement genant
+VS-0003890;MC-EN00236;NANTES;07/08/2026 20:58;07/08/2026 21:11;19;99;Réalisée;Noah Bernard;Batterie remplacee, capot a revoir
+VS-0003891;MC-EN00393;LILLE;07/08/2026 20:06;07/08/2026 20:51;18;96;Réalisée;Louise Dubois;Acces difficile, stationnement genant
+VS-0003892;MC-EN00570;GRENOBLE;07/08/2026 20:58;07/08/2026 21:05;19;95;Réalisée;Rayan Fournier;Batterie remplacee, capot a revoir
