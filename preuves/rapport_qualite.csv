@@ -1,0 +1,22 @@
+source,regle,gravite,n_total,n_concernees,taux_pct
+interventions,R00 déduplication (id_intervention),info,12119,0,0.0
+interventions,R30 date d'alerte illisible,bloquante,12119,0,0.0
+interventions,R31 engin absent du référentiel,bloquante,12119,0,0.0
+interventions,R32 batterie après < avant,info,12119,0,0.0
+recherches,R00 déduplication (recherche_id),info,89207,18618,20.87
+recherches,R10 horodatage illisible,bloquante,70589,1,0.0
+recherches,R11 résultat hors nomenclature,bloquante,70589,0,0.0
+recherches,R12 nb_engins_affichés absent,info,70588,0,0.0
+telemetrie,"R00 déduplication (engin_id,ts)",info,1667800,0,0.0
+telemetrie,"R20 batterie hors [0,100] (neutralisée)",info,1312098,4911,0.37
+telemetrie,R21 batterie absente sur engin électrique (signalée),info,1312098,330212,25.17
+telemetrie,R22 statut hors nomenclature,bloquante,1667800,0,0.0
+trajets,R00 déduplication (trajet_id),info,65025,741,1.14
+trajets,R01 date début/fin manquante,bloquante,64284,3754,5.84
+trajets,R02 incohérence temporelle (fin<=début),bloquante,64284,0,0.0
+trajets,R03 montant absent ou négatif,bloquante,64284,477,0.74
+trajets,R04 durée absente ou nulle,bloquante,64284,492,0.77
+trajets,R05 engin absent du référentiel,bloquante,64284,0,0.0
+trajets,R06 station absente du référentiel,bloquante,64284,261,0.41
+trajets,R07 client absent du référentiel,info,59620,321,0.54
+trajets,R08 durée déclarée ≠ (fin-début),info,59620,331,0.56

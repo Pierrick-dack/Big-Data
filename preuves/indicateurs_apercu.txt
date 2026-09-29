@@ -1,0 +1,16 @@
+Aperçu des indicateurs (couche Gold)
+========================================
+Période chargée      : du 2026-07-20 au 2026-09-15 (58 jours)
+Taux de non-service  : 22.6 %
+Respect du contrat   : 86.5 % (1642 interventions hors délai)
+
+Bulletins publiés par la chaîne quotidienne :
+  - 2026-09-14 : 85 engins à recharger
+  - 2026-09-15 : 34 engins à recharger
+
+Top 5 stations en non-service :
+  - Nantes - Chantrerie (Nantes) : 61.1 % — 1280 recherches sans engin
+  - Lyon - La Doua (Lyon) : 54.8 % — 1180 recherches sans engin
+  - Grenoble - Saint-Martin-d'Heres Campus (Grenoble) : 60.4 % — 1164 recherches sans engin
+  - Lille - Cite Scientifique (Lille) : 51.1 % — 981 recherches sans engin
+  - Nantes - Saint-Felix (Nantes) : 44.8 % — 601 recherches sans engin

@@ -1,0 +1,29 @@
+# --- Données sources brutes (fournies par l'épreuve, ne pas versionner) ---
+donnees/
+
+# --- Données générées par les pipelines (dans code/data/) ---
+**/data/
+*.duckdb
+*.duckdb.wal
+*.parquet
+
+# --- Environnements virtuels et dépendances locales ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Caches Python et tests ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- Fichiers système et éditeurs ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
